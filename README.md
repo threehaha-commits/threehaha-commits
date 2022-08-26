@@ -25,8 +25,8 @@
 :hammer_and_wrench: Languages and Tools:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" width="150" height="150" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="150" height="150" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" width="150" height="150" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="150" height="150" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="125" height="125" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" width="255" height="225" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="125" height="125" />
 <img src="https://raw.githubusercontent.com/modesttree/Zenject/master/Documentation/Images/PNG_Zenject-colour%20(1).png" width="325" height="150" />
 </div>
