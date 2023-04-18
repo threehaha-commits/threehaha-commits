@@ -13,8 +13,9 @@
 - C# Programmer
 
 Useful:
+- <a href="https://github.com/threehaha-commits/Object-Pool">Objects Pool</a>
+- <a href="https://github.com/threehaha-commits/Simple-Pathfinding">Simple 2D Pathfinding</a>
 - 
-
 :video_game: My games: 
 - <a href="https://yandex.ru/games/app/224441?draft=true&lang=ru"><img src="https://i.ibb.co/TWhXYQ3/passive2.png" alt="The Wars of Mars" width="125" height="125"></a>
 <a>My very old project which contains very bad code</a> &#129319;
