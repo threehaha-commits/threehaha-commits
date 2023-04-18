@@ -14,7 +14,7 @@
 
 :video_game: My games: 
 - <a href="https://yandex.ru/games/app/224441?draft=true&lang=ru"><img src="https://i.ibb.co/TWhXYQ3/passive2.png" alt="The Wars of Mars" border="25"></a>
- <a href="https://yandex.ru/games/app/224309?draft=true&lang=ru"><img src="https://ibb.co/BKCjCXc" alt="Zombie Survival: Gun And Magic" border="55"></a>
+ <a href="https://yandex.ru/games/app/224309?draft=true&lang=ru"><img src="https://i.ibb.co/BKCjCXc/image.png" alt="Zombie Survival: Gun And Magic" border="55"></a>
  <a href="https://yandex.ru/games/app/226241?draft=true&lang=ru"><img src="https://i.ibb.co/Kbp5FKG/Cursor-Path.png" alt="Cursor Path" border="150"></a>
 
 :people_holding_hands: My work in team:
