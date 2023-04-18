@@ -17,7 +17,7 @@
 - <a href="https://yandex.ru/games/app/224309?draft=true&lang=ru"><img src="https://i.ibb.co/BKCjCXc/image.png" alt="Zombie Survival: Gun And Magic" width="125" height="125"></a>
 - <a href="https://yandex.ru/games/app/226241?draft=true&lang=ru"><img src="https://i.ibb.co/Kbp5FKG/Cursor-Path.png" alt="Cursor Path" width="150" height="125"></a>
 
-	&#128105;&#8205;&#128187; My freelance work:
+&#128105;&#8205;&#128187; My freelance work:
 - <a href="https://yandex.ru/games/app/216614?lang=ru"><img src="https://i.ibb.co/k1rqxbv/3.png" alt="War Roboships Control" width="125" height="125"></a>
 
 :people_holding_hands: My work in team:
