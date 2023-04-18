@@ -26,7 +26,7 @@
 
 :people_holding_hands: My work in team:
 - <img src="https://img.itch.zone/aW1nLzkwOTc3NzEuZ2lm/100x79%23/23%2FDDS.gif" alt="23-DDS" width="100"/><a href="https://itch.io/jam/mini-jam-108-seaside/rate/1572108">Mini Jam 108: Seaside :desert_island:</a> Role in development: Unity development, programming. Not contains link to project because it is old and bad code
-- <img src="https://img.itch.zone/aW1nLzg4ODE1MjkucG5n/100x79%23/zwtK%2Ff.png" alt="23-DDS" width="100"/><a href="https://itch.io/jam/scorejam19/rate/1563928">ScoreSpace Jam #19 🕹️Role in development: Unity development, programming. Not contains link to project because it is old and bad code
+- <img src="https://img.itch.zone/aW1nLzg4ODE1MjkucG5n/100x79%23/zwtK%2Ff.png" alt="23-DDS" width="100"/><a href="https://itch.io/jam/scorejam19/rate/1563928">ScoreSpace Jam #19 🕹️</a> Role in development: Unity development, programming. Not contains link to project because it is old and bad code
 
 
 :hammer_and_wrench: Languages and Tools:
