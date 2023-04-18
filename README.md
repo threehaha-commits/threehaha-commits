@@ -13,9 +13,9 @@
 - C# Programmer
 
 :video_game: My games: 
-- <a href="https://yandex.ru/games/app/224441?draft=true&lang=ru"><img src="https://i.ibb.co/TWhXYQ3/passive2.png" alt="The Wars of Mars" border="25"></a>
- <a href="https://yandex.ru/games/app/224309?draft=true&lang=ru"><img src="https://i.ibb.co/BKCjCXc/image.png" alt="Zombie Survival: Gun And Magic" border="55"></a>
- <a href="https://yandex.ru/games/app/226241?draft=true&lang=ru"><img src="https://i.ibb.co/Kbp5FKG/Cursor-Path.png" alt="Cursor Path" border="150"></a>
+- <a href="https://yandex.ru/games/app/224441?draft=true&lang=ru"><img src="https://i.ibb.co/TWhXYQ3/passive2.png" alt="The Wars of Mars" width="150" height="150"></a>
+ <a href="https://yandex.ru/games/app/224309?draft=true&lang=ru"><img src="https://i.ibb.co/BKCjCXc/image.png" alt="Zombie Survival: Gun And Magic" border="0"></a>
+ <a href="https://yandex.ru/games/app/226241?draft=true&lang=ru"><img src="https://i.ibb.co/Kbp5FKG/Cursor-Path.png" alt="Cursor Path" border="0"></a>
 
 :people_holding_hands: My work in team:
 - <img src="https://img.itch.zone/aW1nLzkwOTc3NzEuZ2lm/100x79%23/23%2FDDS.gif" alt="23-DDS" width="100"/><a href="https://itch.io/jam/mini-jam-108-seaside/rate/1572108">Mini Jam 108: Seaside :desert_island:</a> <a href="https://github.com/threehaha-commits/Beat-Island"> Github Code</a> Role in development: Unity development, programming
